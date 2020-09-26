@@ -21,7 +21,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-1203&show_icons=true" alt="abhi-1203" /></p>
 
-<h3 align="center">Connect with me:</h3><br/>
+<h3 align="center">Connect with me:</h3>
 <a href="https://linkedin.com/in/abhijith-purohit-ab50a8125" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhijith-purohit-ab50a8125" height="30" width="30" /></a>
 <a href="https://instagram.com/_abhijith_purohit_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_abhijith_purohit_" height="30" width="30" /></a>
 </p>
